@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun Anita Hanfiah!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
+    <div class="container">
+        <h1>Selamat Ulang Tahun, Anita Hanfiah!</h1>
+        <h2>Selamat Datang di Usia 20 Tahun!</h2>
+        
+        <img src="images/anita-hanafiah.jpg" alt="Anita Hanfiah" class="birthday-img">
+        
+        <p>
+            Di hari istimewa ini, kami merayakan kehadiranmu yang luar biasa. 
+            Semoga setiap langkahmu di usia 20 ini dipenuhi dengan kebahagiaan, 
+            kesuksesan, dan petualangan yang tak terlupakan. 
+        </p>
+        <p>
+            Ingatlah, kamu adalah wanita hebat yang mampu menghadapi dunia. 
+            Bersiaplah untuk menaklukkan impianmu dan menginspirasi orang-orang di sekitarmu!
+        </p>
+        <p>
+            Selamat ulang tahun! Semoga semua harapanmu menjadi kenyataan. 
+            Nikmati setiap momen di tahun yang baru ini!
+        </p>
+    </div>
+
+</body>
+</html>
